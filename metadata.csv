@@ -1,0 +1,35 @@
+Declare,metatab-latest
+Title,Homicides in California
+Description,Homicides reported to the California DOJ by local law enforcement. 
+Identifier,84e81fb6-8e62-4329-81d7-789e67a3a7fb
+Name,openjustice.doj.ca.gov-homicide-1.1.1
+Dataset,homicide
+Origin,openjustice.doj.ca.gov
+Time,
+Space,
+Grain,
+Variant,
+Version,1.1.1
+Version.Major,1
+Version.Minor,1
+Version.Patch,1
+Created,2020-06-15T21:55:10
+Modified,2020-06-15T21:55:11
+Giturl,https://github.com/metatab-packages/policedata-collection.git
+
+Section,Contacts,Email,Organization,Url
+Wrangler,Eric Busboom,eric@civicknowledge.com,Civic Knowledge,http://civicknowledge.com
+
+Section,Documentation,Title,Description,
+Documentation,file:README.md,README,,
+Downloadpage,https://openjustice.doj.ca.gov/data,Data download page
+Homepage,https://openjustice.doj.ca.gov/,Open Justice Home Page
+Documentation,https://data-openjustice.doj.ca.gov/sites/default/files/dataset/2019-07/Homicide%20Context_062419.pdf,Data documentation,Data documentation and data dictionary
+Section,References,Name,Description,
+
+Section,Resources,Name,Description,
+Datafile,https://data-openjustice.doj.ca.gov/sites/default/files/dataset/2019-06/Homicide%20_Actuals_1987-2018.csv,homicides,California homicides
+Datafile,https://data-openjustice.doj.ca.gov/sites/default/files/dataset/2019-06/Homicide_Justifiable_1987-2018.csv,homicide_justifiable,California justifiable homicides
+Datafile,https://data-openjustice.doj.ca.gov/sites/default/files/dataset/2019-06/Homicide_Manslaughter_1987-2018.csv,homicide_manslaughter,California manslaughter homicides
+
+Section,Schema,DataType,AltName,Description
