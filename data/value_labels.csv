@@ -1,0 +1,150 @@
+variable,code,label,subject_heading
+precipitating_event,02,Rape ,Actuals 
+precipitating_event,03,Robbery ,Actuals 
+precipitating_event,05,Burglary ,Actuals 
+precipitating_event,06,Larceny ,Actuals 
+precipitating_event,07,Motor vehicle theft ,Actuals 
+precipitating_event,09,Arson ,Actuals 
+precipitating_event,10,"Prostitution and commercial vice (i.e., prostitute killed by pimp during argument over money) ",Actuals 
+precipitating_event,17,"Other sex offense (sodomy, etc.) ",Actuals 
+precipitating_event,18,Narcotic drug laws (not overdose) ,Actuals 
+precipitating_event,19,Gambling ,Actuals 
+precipitating_event,26,"Other not specified (kidnapping, murder for hire) ",Actuals 
+precipitating_event,32,Abortion (not a legal abortion) ,Actuals 
+precipitating_event,40,Lover's triangle ,Actuals 
+precipitating_event,41,Child killed by babysitter ,Actuals 
+precipitating_event,42,"Brawl due to influence of alcohol (i.e., argument while intoxicated)| ",Actuals 
+precipitating_event,43,"Brawl due to influence of narcotics (i.e., argument while under the influence) ",Actuals 
+precipitating_event,44,Argument over money or property (revenge over money or property) ,Actuals 
+precipitating_event,45,Other arguments (revenge) ,Actuals 
+precipitating_event,46,Execution killing(s) ,Actuals 
+precipitating_event,47,"Gang killing(s) (street gangs, motorcycle gangs) ",Actuals 
+precipitating_event,48,"Institutional killing(s) (jail, prison, state hospital) ",Actuals 
+precipitating_event,49,Sniper attack (random killing) ,Actuals 
+precipitating_event,60,"Other - non-felony (mercy killing, suicide pacts, mentally deranged offender) ",Actuals 
+precipitating_event,61,Child abuse ,Actuals 
+precipitating_event,62,Domestic Violence (1992) ,Actuals 
+precipitating_event,63,Drive-by Shooting (unspecified) (1996) ,Actuals 
+precipitating_event,70,All - suspected felony type,Actuals 
+precipitating_event,99,All instances where facts provided do not permit determination of circumstances (skeletal remains) ,Actuals 
+precipitating_event,50,Victim killed accidently hunting ,Manslaughter 
+precipitating_event,51,Non self-inflicted gun cleaning ,Manslaughter 
+precipitating_event,52,Children under 15 playing with gun ,Manslaughter 
+precipitating_event,53,Negligent gun handling ,Manslaughter 
+precipitating_event,59,"Other manslaughter by negligence (child neglect, etc.) ",Manslaughter 
+precipitating_event,80,Felon attacked peace officer ,Justifiable by Citizen ONLY 
+precipitating_event,82,Felon attacked a civilian ,Justifiable by Citizen ONLY 
+precipitating_event,83,Felon attempted flight from a crime ,Justifiable by Citizen ONLY 
+precipitating_event,84,Felon killed in commission of a crime ,Justifiable by Citizen ONLY 
+precipitating_event,85,Felon resisted arrest ,Justifiable by Citizen ONLY 
+precipitating_event,86,Not enough information to determine (citizen justifiable) ,Justifiable by Citizen ONLY 
+precipitating_event,90,Felon attacked peace officer ,Justifiable by Peace Officer ONLY 
+precipitating_event,91,Felon attacked another peace officer ,Justifiable by Peace Officer ONLY 
+precipitating_event,92,Felon attacked civilian ,Justifiable by Peace Officer ONLY 
+precipitating_event,93,Felon attempted flight from a crime ,Justifiable by Peace Officer ONLY 
+precipitating_event,94,Felon killed in commission of a crime ,Justifiable by Peace Officer ONLY 
+precipitating_event,95,Felon resisted arrest ,Justifiable by Peace Officer ONLY 
+precipitating_event,96,Not enough information to determine (peace officer justifiable) performance of the victim’s official duties. ,Justifiable by Peace Officer ONLY 
+means_of_death,00,Unknown
+means_of_death,01,Firearm (not specified)
+means_of_death,02,Handgun (pistol/revolver)
+means_of_death,03,Rifle
+means_of_death,04,Shotgun
+means_of_death,05,Other firearm
+means_of_death,06,Knife or other stabbing instrument
+means_of_death,07,Blunt object
+means_of_death,08,"Personal weapon (hands/feet, etc)"
+means_of_death,09,Poison
+means_of_death,10,Drugs/Narcotics (overdose)
+means_of_death,11,Rope/Garrote
+means_of_death,13,Arson/Fire
+means_of_death,14,Explosion
+means_of_death,15,Other
+means_of_death,16,Neglect
+means_of_death,17,Pellet gun
+means_of_death,20,Drowning
+means_of_death,25 ,Asphyxiation
+location,00,Unknown
+location,01,Hotel/motel
+location,02,Victim’s residence 
+location,03,Residence of offender
+location,04,Gas station/conv store/ fast food
+location,05,Liquor store
+location,06,Parking lot 
+location,07,Other commercial business
+location,08,Financial institution
+location,12,Warehouse
+location,13,Other residence (not victim’s or offender’s)
+location,14,Bar/restaurant
+location,15,Any vehicle
+location,16,Street/side walk
+location,17,Highway or freeway
+location,18,Park/ public use area
+location,19,Vacant field  
+location,20,Jail
+location,21,CYA
+location,24,Shared residence
+location,25,School or grounds
+location,99,Other
+relationship,01,Husband,
+relationship,02,Wife
+relationship,03,Common-law husband
+relationship,04,Common-law wife
+relationship,05,Mother
+relationship,06,Father
+relationship,07,Son
+relationship,08,Daughter
+relationship,09,Brother
+relationship,10,Sister
+relationship,11,In-law
+relationship,12,Stepfather
+relationship,13,Stepmother
+relationship,14,Stepson
+relationship,15,Stepdaughter
+relationship,16,Other family
+relationship,20,Neighbor
+relationship,21,Acquaintance
+relationship,22,Boyfriend
+relationship,23,Girlfriend
+relationship,24,Ex-husband
+relationship,25,Ex-wife
+relationship,26,Employer
+relationship,27,Employee
+relationship,28,Friend
+relationship,29,Homosexual relationship
+relationship,30,"Other, known to Victim"
+relationship,40,Stranger
+relationship,45,Gang member (Beginning 1992)
+relationship,50,Unable to determine relationship
+gender,0,unknown
+gender,1,Male
+gender,2,Female
+race_ethnicity,0,Unknown
+race_ethnicity,X,Unknown
+race_ethnicity,1,White
+race_ethnicity,W,White
+race_ethnicity,2,Hispanic
+race_ethnicity,H,Hispanic
+race_ethnicity,3,Black
+race_ethnicity,B,Black
+race_ethnicity,4,American Indian
+race_ethnicity,I,American Indian
+race_ethnicity,5,Chinese
+race_ethnicity,C,Chinese
+race_ethnicity,6,Japanese
+race_ethnicity,J,Japanese
+race_ethnicity,7,Filipino
+race_ethnicity,F,Filipino
+race_ethnicity,8,Other
+race_ethnicity,O,Other
+race_ethnicity,9,Pacific Islander
+race_ethnicity,P,Pacific Islander
+race_ethnicity,A,Other Asian
+race_ethnicity,D,Cambodian
+race_ethnicity,G,Guamanian
+race_ethnicity,K,Korean
+race_ethnicity,L,Laotian
+race_ethnicity,S,Samoan
+race_ethnicity,U,Hawaiian
+race_ethnicity,V,Vietnamese
+race_ethnicity,Z,Asian Indian
